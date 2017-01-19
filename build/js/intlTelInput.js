@@ -1121,4 +1121,6 @@
             areaCodes: c[4] || null
         };
     }
+
+    return $;
 });
